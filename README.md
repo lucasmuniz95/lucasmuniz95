@@ -1,6 +1,6 @@
 ## Olá, eu sou Lucas Muniz!
 
-Esudante de Sistemas para internet e ainda no começo na aréa de tecnologia.
+Estudante de Sistemas para internet e ainda no começo na aréa de tecnologia.
 
 No momento estou estudando as linguagens abaixo:
 <div style="display: inline_block align:"right">
