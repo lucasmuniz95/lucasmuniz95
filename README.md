@@ -6,7 +6,7 @@ No momento estou estudando as linguagens abaixo:
 <div style="display: inline_block align:"right">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Flutter" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">                                                                                                                                                 
+  <img align="center" alt="Lucas-Flutter" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">                                                                                                                                                 
 </div>
     
 ##
