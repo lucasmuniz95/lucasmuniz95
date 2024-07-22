@@ -21,9 +21,8 @@
 
 Pode conectar comigo em alguns das redes sociais abaixo ou por email:
 
-<div> 
-
-  <a href="https://instagram.com/lucasmuniz95_" target="_blank" rel=”noopener” rel="noreferer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div>
+  <a href="https://instagram.com/lucasmuniz95_" target="_blank" rel=”noopener” rel="noreferer" onclick="window.open('https://instagram.com/lucasmuniz95_')"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:andradelucasmuniz@gmail.com" target="_blank" rel=”noopener” rel="noreferer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucasmuniz95/" target="_blank" rel=”noopener” rel="noreferer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
