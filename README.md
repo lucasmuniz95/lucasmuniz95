@@ -28,37 +28,6 @@ Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de A
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmuniz95&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmuniz95&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmuniz95&theme=github-dark-blue"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucasmuniz95&theme=algolia&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 ## 📊 Atividade
 
@@ -80,45 +49,9 @@ Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de A
 - ✔ LINQ
 - ✔ APIs REST
 - ✔ Integrações com bancos
-- ✔ JavaScript
 - ✔ jQuery
 - ✔ Kendo UI
-- ✔ Bootstrap
-- ✔ Git
-- ✔ GitHub
-- ✔ Postman
 - ✔ Flutter
-- ✔ Java
-- ✔ Spring Boot
-
----
-
-## 📂 Projetos em destaque
-
-🔹 Sistema ERP Corporativo
-
-Desenvolvimento e manutenção de funcionalidades para um ERP utilizado por diversas empresas.
-
-Tecnologias:
-- ASP.NET MVC
-- C#
-- SQL Server
-- Kendo UI
-- jQuery
-- Entity Framework
-
----
-
-🔹 Integrações Bancárias
-
-Desenvolvimento de integrações com APIs de instituições financeiras para emissão e gerenciamento de boletos.
-
-Tecnologias:
-- C#
-- REST API
-- JSON
-- OAuth2
-- TLS
 
 ---
 
