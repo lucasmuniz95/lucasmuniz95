@@ -26,8 +26,8 @@ Também possuo experiência com **Flutter**, **Java/Spring Boot** e desenvolvime
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" alt="SQL Server"/>
 
-</div>
 ---
+</div>
 
 ## 🌎 Vamos nos conectar
 
