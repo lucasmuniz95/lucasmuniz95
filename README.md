@@ -34,17 +34,11 @@ Também possuo experiência com **Flutter**, **Java/Spring Boot** e desenvolvime
 <div align="center">
 
 <a href="mailto:andradelucasmuniz@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/lucasmuniz95">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/lucasmuniz95_">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
+<a href="https://linkedin.com/in/lucasmuniz95">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
