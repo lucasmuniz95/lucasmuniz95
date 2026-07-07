@@ -2,57 +2,133 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;C%23+%7C+.NET+%7C+ASP.NET+MVC;SQL+Server+%7C+JavaScript+%7C+Kendo+UI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+C%23+e+ASP.NET+MVC;SQL+Server+%7C+JavaScript+%7C+Kendo+UI;Sempre+aprendendo+algo+novo!"/>
 
 </div>
 
-## 💻 Sobre mim
+---
 
-Desenvolvedor Full Stack com experiência em **C#, ASP.NET MVC, SQL Server, JavaScript, jQuery e Kendo UI**.
+## 🚀 Sobre mim
 
-Atuo no desenvolvimento de sistemas corporativos, integrações com APIs REST, otimização de consultas SQL e implementação de novas funcionalidades, sempre buscando código limpo, desempenho e boas práticas.
+💻 Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas corporativos utilizando **C#**, **ASP.NET MVC**, **SQL Server**, **JavaScript**, **jQuery** e **Kendo UI**.
+
+Tenho facilidade em entender regras de negócio complexas, desenvolver novas funcionalidades, realizar integrações com APIs REST, otimizar consultas SQL e solucionar problemas em aplicações de produção.
+
+Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de APIs.
 
 ---
 
-## 🚀 Tecnologias
+## 💼 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css,bootstrap,java,spring,flutter,dart,git,github,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,jquery,html,css,bootstrap,java,spring,flutter,dart,git,github,postman,mysql&perline=8"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasmuniz95&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmuniz95&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmuniz95&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmuniz95&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 🔥 Streak
 
-🔹 **ERP Corporativo**
+<div align="center">
 
-Sistema de gestão empresarial desenvolvido em **ASP.NET MVC**, **C#**, **SQL Server**, **Kendo UI** e **jQuery**.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmuniz95&theme=github-dark-blue"/>
 
-🔹 **Integrações Bancárias**
-
-Integrações com APIs de instituições financeiras para emissão e gerenciamento de boletos, utilizando **REST**, **OAuth2** e **JSON**.
-
-🔹 **Aplicações Mobile**
-
-Desenvolvimento de aplicativos utilizando **Flutter**, consumindo APIs REST.
+</div>
 
 ---
 
-## 📫 Contato
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucasmuniz95&theme=algolia&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmuniz95&theme=github-compact"/>
+
+</div>
+
+---
+
+## 🚀 Principais competências
+
+- ✔ Desenvolvimento Web (.NET)
+- ✔ ASP.NET MVC
+- ✔ C#
+- ✔ SQL Server
+- ✔ Entity Framework
+- ✔ LINQ
+- ✔ APIs REST
+- ✔ Integrações com bancos
+- ✔ JavaScript
+- ✔ jQuery
+- ✔ Kendo UI
+- ✔ Bootstrap
+- ✔ Git
+- ✔ GitHub
+- ✔ Postman
+- ✔ Flutter
+- ✔ Java
+- ✔ Spring Boot
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Sistema ERP Corporativo
+
+Desenvolvimento e manutenção de funcionalidades para um ERP utilizado por diversas empresas.
+
+Tecnologias:
+- ASP.NET MVC
+- C#
+- SQL Server
+- Kendo UI
+- jQuery
+- Entity Framework
+
+---
+
+🔹 Integrações Bancárias
+
+Desenvolvimento de integrações com APIs de instituições financeiras para emissão e gerenciamento de boletos.
+
+Tecnologias:
+- C#
+- REST API
+- JSON
+- OAuth2
+- TLS
+
+---
+
+🔹 Aplicações Mobile
+
+Aplicações utilizando Flutter consumindo APIs REST.
+
+---
+
+## 🌎 Vamos nos conectar
 
 <div align="center">
 
@@ -67,5 +143,21 @@ Desenvolvimento de aplicativos utilizando **Flutter**, consumindo APIs REST.
 <a href="https://instagram.com/lucasmuniz95_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=lucasmuniz95&color=0e75b6&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Resolver problemas é o que transforma código em valor."
 
 </div>
