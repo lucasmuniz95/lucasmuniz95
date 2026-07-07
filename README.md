@@ -43,20 +43,10 @@ Também possuo experiência com **Flutter**, **Java/Spring Boot** e desenvolvime
 
 </div>
 
-
-
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=lucasmuniz95&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *Resolver problemas é o que transforma código em valor.*
+*"Resolver problemas é o que transforma código em valor."*
 
 </div>
