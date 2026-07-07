@@ -22,7 +22,7 @@ Também possuo experiência com **Flutter**, **Java/Spring Boot** e desenvolvime
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,jquery,html,css,bootstrap,flutter,dart,git,postman&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,jquery,html,css,bootstrap,flutter,dart&perline=5"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
 
