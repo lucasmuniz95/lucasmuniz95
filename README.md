@@ -28,17 +28,6 @@ Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de A
 
 ---
 
-
-## 📊 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmuniz95&theme=github-compact"/>
-
-</div>
-
----
-
 ## 🚀 Principais competências
 
 - ✔ Desenvolvimento Web (.NET)
