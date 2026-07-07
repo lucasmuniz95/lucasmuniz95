@@ -22,7 +22,7 @@ Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,jquery,html,css,bootstrap,java,spring,flutter,dart,git,github,postman,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,jquery,html,css,bootstrap,java,spring,flutter,dart,sql&perline=8"/>
 
 </div>
 
