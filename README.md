@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+C%23+e+ASP.NET+MVC;SQL+Server+%7C+JavaScript+%7C+Kendo+UI;Sempre+aprendendo+algo+novo!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;C%23+%7C+ASP.NET+MVC+%7C+SQL+Server;JavaScript+%7C+jQuery+%7C+Kendo+UI;Sempre+aprendendo+algo+novo!"/>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 💻 Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas corporativos utilizando **C#**, **ASP.NET MVC**, **SQL Server**, **JavaScript**, **jQuery** e **Kendo UI**.
 
-Tenho facilidade em entender regras de negócio complexas, desenvolver novas funcionalidades, realizar integrações com APIs REST, otimizar consultas SQL e solucionar problemas em aplicações de produção.
+Atualmente atuo no desenvolvimento de novas funcionalidades, integrações com APIs REST, otimização de consultas SQL e manutenção de sistemas empresariais, sempre buscando soluções simples, eficientes e de fácil manutenção.
 
-Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de APIs.
+Também possuo experiência com **Flutter**, **Java/Spring Boot** e desenvolvimento de APIs.
 
 ---
 
@@ -22,31 +22,11 @@ Também possuo experiência com Flutter, Java/Spring Boot e desenvolvimento de A
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,jquery,html,css,bootstrap,flutter,dart&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,jquery,html,css,bootstrap,flutter,dart,git,postman&perline=5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
 
 </div>
-
----
-
-## 🚀 Principais competências
-
-- ✔ Desenvolvimento Web (.NET)
-- ✔ ASP.NET MVC
-- ✔ C#
-- ✔ SQL Server
-- ✔ Entity Framework
-- ✔ LINQ
-- ✔ APIs REST
-- ✔ Integrações com bancos
-- ✔ jQuery
-- ✔ Kendo UI
-- ✔ Flutter
-
----
-
-🔹 Aplicações Mobile
-
-Aplicações utilizando Flutter consumindo APIs REST.
 
 ---
 
@@ -80,6 +60,6 @@ Aplicações utilizando Flutter consumindo APIs REST.
 
 <div align="center">
 
-### 💡 "Resolver problemas é o que transforma código em valor."
+> 💡 *Resolver problemas é o que transforma código em valor.*
 
 </div>
